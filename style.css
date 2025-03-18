@@ -1,11 +1,14 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
-    --color-text: #444444;
-    --color-white: #FFFFFF;
+  
+
+
+--color-primary: #00bf46; /* Azul Oscuro */
+--color-secondary: #E3F2FD; /* Azul Claro */
+--color-tertiary: #F5F5F5; /* Gris Claro */
+--color-button: #1C3B6E; /* Azul Medio */
+--color-button-hover: #142B4D; /* Azul Oscuro */
+--color-text: #333333; /* Gris Oscuro */
+--color-white: #FFFFFF; /* Blanco */
 }
 
 /* Estilos generales */
